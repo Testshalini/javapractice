@@ -1,0 +1,39 @@
+Navigate to the Search Feature:
+
+Open the application/webpage where the search functionality is located.
+Locate the search input field.
+Enter a Valid Search Query:
+
+Input a valid search query into the search input field.
+Ensure that the query is relevant to the content available in the application.
+Submit the Search Query:
+
+Trigger the search action, either by pressing the Enter key or clicking on the search button/icon.
+Review the Search Results:
+
+Verify that the search results are displayed promptly.
+Ensure that the displayed results are relevant to the entered search query.
+Check if the search results are comprehensive and cover all relevant matches.
+Examine the Relevance of Results:
+
+Analyze the displayed search results to determine their relevance to the entered query.
+Verify that the most relevant results are presented at the top of the list.
+Ensure that the relevance ranking aligns with user expectations.
+Inspect Result Details:
+
+Click on several search results to view their details.
+Confirm that the content of each result is related to the search query.
+Verify that the displayed information corresponds accurately to the search criteria.
+Perform Multiple Searches:
+
+Repeat steps 3 to 7 with different valid search queries.
+Use a variety of search terms and phrases to cover a broad spectrum of potential user queries.
+Validate Search Pagination (if applicable):
+
+If the search results span multiple pages, navigate through the pages.
+Confirm that each page displays relevant results consistent with the search query.
+Record and Report Findings:
+
+Document any discrepancies or issues encountered during the testing process.
+Note down any instances where the search results were not relevant or accurate.
+Prepare a summary report highlighting the overall effectiveness of the search functionality.
